@@ -17,7 +17,7 @@
     "tsconfig.json"
   ],
   "dependencies": {
-    "@chapabu/tsconfig-base": "0.0.1"
+    "@chapabu/tsconfig-base": "^0.0.1"
   },
   "keywords": [
     "tsconfig",
