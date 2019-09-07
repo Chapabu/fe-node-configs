@@ -1,3 +1,8 @@
+# Lockfiles
+# We don't need these, we can handle versions as peerdeps.
+package-lock.json
+yarn.lock
+
 # Logs
 logs
 *.log
