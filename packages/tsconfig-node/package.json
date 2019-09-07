@@ -1,6 +1,6 @@
 {
   "name": "@chapabu/tsconfig-node",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Shared TypeScript configuration for Node based projects.",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "tsconfig.json"
   ],
   "dependencies": {
-    "@chapabu/tsconfig-base": "^0.0.1"
+    "@chapabu/tsconfig-base": "^0.1.0"
   },
   "publishConfig": {
     "access": "public"
