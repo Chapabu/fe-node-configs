@@ -19,9 +19,13 @@
   "peerDependencies": {
     "typescript": "^3.0.0"
   },
+  "publishConfig": {
+    "access": "public"
+  }
   "keywords": [
     "tsconfig",
     "typescript",
     "ts"
-  ]
+  ],
+  "gitHead": "27afdf222cb9d72ad1f6ec71f9169eacf815a974"
 }
