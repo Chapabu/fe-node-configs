@@ -1,0 +1,24 @@
+{
+  "name": "@chapabu/tsconfig-base",
+  "version": "0.0.1",
+  "description": "Base shared TypeScript configuration",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chapabu/fe-node-configs.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "author": "Matt Chapman <chapabu101@gmail.com>",
+  "homepage": "https://github.com/Chapabu/fe-node-configs#readme",
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts"
+  ]
+}

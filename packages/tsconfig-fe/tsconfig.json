@@ -1,0 +1,9 @@
+{
+  "extends": "@chapabu/tsconfig-base",
+  "compilerOptions": {
+    "noEmit": true,
+    "isolatedModules": true,
+    "module": "esnext",
+    "esModuleInterop": true
+  }
+}
