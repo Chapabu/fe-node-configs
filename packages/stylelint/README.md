@@ -11,6 +11,8 @@ Includes:
 
 ## Usage
 
+`npm install @chapabu/stylelint`  or `yarn add @chapabu/stylelint`
+
 ```json
 {
   "extends": ["@chapabu/stylelint"]

@@ -6,6 +6,8 @@ Targets ES2018 for full compatibility with Node 10.
 
 ## Usage
 
+`npm install @chapabu/tsconfig-node`  or `yarn add @chapabu/tsconfig-node`
+
 `tsconfig.json`
 
 ```json

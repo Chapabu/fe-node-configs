@@ -4,6 +4,8 @@ Base TypeScript configuration for frontend (i.e. browser based) projects. The co
 
 ## Usage
 
+`npm install @chapabu/tsconfig-fe`  or `yarn add @chapabu/tsconfig-fe`
+
 `tsconfig.json`
 
 ```json
