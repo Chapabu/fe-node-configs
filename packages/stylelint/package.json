@@ -1,6 +1,6 @@
 {
   "name": "@chapabu/stylelint",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Shared Stylelint config for vanilla CSS.",
   "repository": {
     "type": "git",
