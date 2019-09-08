@@ -1,0 +1,29 @@
+{
+  "name": "@chapabu/stylelint-scss",
+  "version": "0.0.1",
+  "description": "Shared Stylelint config for SCSS.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chapabu/fe-node-configs.git"
+  },
+  "author": "Matt Chapman <chapabu101@gmail.com>",
+  "homepage": "https://github.com/Chapabu/fe-node-configs#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "dependencies": {
+    "@chapabu/stylelint": "^0.0.1"
+  },
+  "devDependencies": {
+    "stylelint": "^10.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
