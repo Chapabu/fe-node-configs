@@ -4,6 +4,7 @@
     "noEmit": true,
     "isolatedModules": true,
     "module": "esnext",
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "declaration": false
   }
 }
