@@ -18,7 +18,8 @@
     "stylelint-config"
   ],
   "dependencies": {
-    "@chapabu/stylelint": "^1.0.0"
+    "@chapabu/stylelint": "^1.0.0",
+    "stylelint-scss": "^3.12.0"
   },
   "devDependencies": {
     "stylelint": "^10.1.0"
