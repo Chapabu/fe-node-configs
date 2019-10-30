@@ -1,6 +1,6 @@
 {
   "name": "@chapabu/stylelint-scss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared Stylelint config for SCSS.",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "stylelint-config"
   ],
   "dependencies": {
-    "@chapabu/stylelint": "^1.0.0",
+    "@chapabu/stylelint": "^1.0.1",
     "stylelint-scss": "^3.12.0"
   },
   "devDependencies": {

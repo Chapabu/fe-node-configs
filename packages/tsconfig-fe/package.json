@@ -1,6 +1,6 @@
 {
   "name": "@chapabu/tsconfig-fe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared TypeScript configuration for standard FE projects.",
   "repository": {
     "type": "git",
